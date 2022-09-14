@@ -1,0 +1,17 @@
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\VerbosIrregulares\Frontend\bin\Debug\Frontend.exe.config
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\VerbosIrregulares\Frontend\bin\Debug\Frontend.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\VerbosIrregulares\Frontend\bin\Debug\Frontend.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\VerbosIrregulares\Frontend\bin\Debug\Backend.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\VerbosIrregulares\Frontend\bin\Debug\Backend.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\VerbosIrregulares\Frontend\obj\Debug\Frontend.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\VerbosIrregulares\Frontend\obj\Debug\Frontend.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\VerbosIrregulares\Frontend\obj\Debug\Frontend.Inicio.resources
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\VerbosIrregulares\Frontend\obj\Debug\Frontend.Menu.resources
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\VerbosIrregulares\Frontend\obj\Debug\Frontend.PluralesIrregulares.resources
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\VerbosIrregulares\Frontend\obj\Debug\Frontend.Properties.Resources.resources
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\VerbosIrregulares\Frontend\obj\Debug\Frontend.csproj.GenerateResource.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\VerbosIrregulares\Frontend\obj\Debug\Frontend.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\VerbosIrregulares\Frontend\obj\Debug\Frontend.csproj.CopyComplete
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\VerbosIrregulares\Frontend\obj\Debug\Frontend.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\VerbosIrregulares\Frontend\obj\Debug\Frontend.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\VerbosIrregulares\Frontend\obj\Debug\Frontend.SustantivosIrregulares.resources

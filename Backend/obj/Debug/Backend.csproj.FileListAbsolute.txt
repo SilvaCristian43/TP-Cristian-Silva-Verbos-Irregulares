@@ -1,0 +1,6 @@
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\VerbosIrregulares\Backend\bin\Debug\Backend.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\VerbosIrregulares\Backend\bin\Debug\Backend.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\VerbosIrregulares\Backend\obj\Debug\Backend.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\VerbosIrregulares\Backend\obj\Debug\Backend.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\VerbosIrregulares\Backend\obj\Debug\Backend.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\VerbosIrregulares\Backend\obj\Debug\Backend.pdb
